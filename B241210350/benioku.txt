@@ -1,0 +1,1 @@
+Ödevi çalıştırmak için 'Dna.txt' ve 'Islemler.txt'nin makefile aynı dizinde olması yeterlidir. Program çalışırken ilgili seçimi yaptığınızda çalışacaktır. Teşekkürler.
