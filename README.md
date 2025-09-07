@@ -1,6 +1,6 @@
-# 🧬 Veri Yapıları Ödev - DNA ve Kromozom Okuma Programı
+# 🧬 Veri Yapıları - DNA ve Kromozom Okuma Programı
 
-Bu proje, **Veri Yapıları** dersinin ödevi olarak, DNA ve kromozom dizilerini hızlı ve verimli bir şekilde okuma ve işleme amacıyla geliştirilmiştir. C++ dilinde yazılmıştır ve özellikle büyük veri setlerinde yüksek performans sağlamayı hedefler.
+Bu proje, DNA ve kromozom dizilerini hızlı ve verimli bir şekilde okuma ve işleme amacıyla geliştirilmiştir. C++ dilinde yazılmıştır ve özellikle büyük veri setlerinde yüksek performans sağlamayı hedefler.
 
 Programda 'Dna.txt' adında bir txt dosyasından veriler alınır ve ilgili şartlar altında kromozomlar olarak bağıl listede sıralanır. Daha sonra kullanıcının çaprazlama, mutasyon, ekrana yazdırma ve hazır sıralı işlemleri içeren 'islemler.txt' ile eylemler yapabilmesi sağlanır.
 
